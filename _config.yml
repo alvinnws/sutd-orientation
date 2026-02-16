@@ -1,12 +1,13 @@
 title: SUTD Orientation Wiki
 description: Mostly HOTO from 2025 Orientation Committee
+url: "https://www.alvinnws.com/sutd-orientation"
+baseurl: "/sutd-orientation"
 theme: just-the-docs
-
-url: https://www.alvinnws.com/sutd-orientation
 
 aux_links:
   Github Repository: https://github.com/alvinnws/sutd-orientation
-
 aux_links_new_tab: true
 
 color_scheme: dark
+
+heading_anchors: true
