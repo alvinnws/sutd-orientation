@@ -14,7 +14,7 @@ parent: Programmes
 - **ONEDRIVE/GDRIVE:** alvin (PD) set up a onedrive for us so the entirety of Ori could have all our info in the same place and each subcomm would just only have access to their folder but the directors could see everything. Which was a good idea but I forgot why we did that and went and created a google drive for my comm bc i liked the ui better…… which just ended up making everything messy. If ocomm decides on one platform to use, USE IT PLS.
 
 Vincent’s notion:
-![vinc notion](../../assets/programmes-vinc-notion.png)
+![vinc notion](https://www.alvinnws.com/sutd-orientation/assets/programmes-vinc-notion.png)
 
 ## Key deadlines (for 2025)
 
