@@ -43,9 +43,9 @@ The orientation was successful in its thematic execution and creative output. Ha
 
 ### Merchandise & Procurement 
 
-**Workflow:** Assign **one person per item** (e.g., one for shirts, one for tote bags) to avoid redundant design efforts. 
-**Timeline:** Design must be finished by **Term 2**. Procurement must be finalized before the **GEO**. 
-**Shirt Design:** Use house colors prominently on the front of shirts for easy identification. Poll OGLs on designs early to speed up the selection process. 
+**Workflow:** Assign **one person per item** (e.g., one for shirts, one for tote bags) to avoid redundant design efforts.  
+**Timeline:** Design must be finished by **Term 2**. Procurement must be finalized before the **GEO**.  
+**Shirt Design:** Use house colors prominently on the front of shirts for easy identification. Poll OGLs on designs early to speed up the selection process.  
 **Finance:** Work closely with Fundraising and Finance. Send sponsor decks immediately after receiving quotations. 
 
 ### Publicity & Outreach 
@@ -56,10 +56,10 @@ The orientation was successful in its thematic execution and creative output. Ha
 
 ### Costumes & Centerpiece (The "Makers" Team) 
 
-**Resource Management:** Access to the **Makespace/FabLab** should be requested 4 months in advance. 
-**Safety & Equipment:** Budget for **respirators** when dealing with toxic chemicals. Invest more in quality tools and buy spare materials upfront ("Spend first, think later"). 
-Workload: These tasks are exhausting during Term 3. Start earlier and implement "soft deadlines" to ensure the final deadline is met. 
-**Manpower: * Costumes:** ideally 1 person per costume, or 2 ppl every 3 costumes, budget probably 70-80 per costume 
+**Resource Management:** Access to the **Makespace/FabLab** should be requested 4 months in advance.  
+**Safety & Equipment:** Budget for **respirators** when dealing with toxic chemicals. Invest more in quality tools and buy spare materials upfront ("Spend first, think later").  
+Workload: These tasks are exhausting during Term 3. Start earlier and implement "soft deadlines" to ensure the final deadline is met.  
+**Manpower: * Costumes:** ideally 1 person per costume, or 2 ppl every 3 costumes, budget probably 70-80 per costume  
 **Centerpiece:** Requires more discussion between sub-teams and a "Mini-boss" who is more "nosy" regarding deadlines and workspace organization. 
 
  
@@ -68,19 +68,19 @@ Workload: These tasks are exhausting during Term 3. Start earlier and implement 
 
 ### Structural Changes 
 
-**Division of Labor:** Directors should explicitly split the committee into **Makers** (Costume, Centerpiece) and **Media** (Logo, Storyline, Merch, Publicity, Trailers). 
-**Meeting Cadence:** Every sub-committee must have at least one internal meeting within the first month of formation. 
+**Division of Labor:** Directors should explicitly split the committee into **Makers** (Costume, Centerpiece) and **Media** (Logo, Storyline, Merch, Publicity, Trailers).  
+**Meeting Cadence:** Every sub-committee must have at least one internal meeting within the first month of formation.  
 **Accountability:** Directors must remain highly contactable. Assign a specific person to conduct "progress checks" on deliverables. 
 
 ### Skills & Training 
 
-**Workshops:** Conduct CM (Construction/Maker) workshops with seniors. 
+**Workshops:** Conduct CM (Construction/Maker) workshops with seniors.  
 **Technical Literacy:** Force more members to undergo training for the Zünd cutter, sewing machines, and woodworking. Build a rapport with FabLab staff for technical assistance. 
 
 ### Operational Tips 
 
-**Hostel Living:** It is significantly easier for Directors to manage the project if they stay in the hostel during Term 3. 
-**Administrative Hurdles:** Establish a group chat with relevant staff (e.g., Charlene) early for weapon approvals and safety clearances. 
+**Hostel Living:** It is significantly easier for Directors to manage the project if they stay in the hostel during Term 3.  
+**Administrative Hurdles:** Establish a group chat with relevant staff (e.g., Charlene) early for weapon approvals and safety clearances.  
 **Budgeting:** Funds often become available toward the end of the project; plan contingency spending in advance. 
 
  
