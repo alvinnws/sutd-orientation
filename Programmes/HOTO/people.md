@@ -1,7 +1,7 @@
 ---
 title: People
 layout: default
-permalink: /programmes/people
+permalink: /programmes/HOTO/people
 nav_order: 1
 parent: Programmes
 ---
