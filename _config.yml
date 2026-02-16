@@ -11,3 +11,7 @@ aux_links_new_tab: true
 color_scheme: light
 
 heading_anchors: true
+
+callouts:
+  note:
+    color: blue
