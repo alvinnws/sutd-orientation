@@ -100,14 +100,16 @@ This one is very simple. If OComm fucked up, you fucked up. Don't say your direc
 
 Sometimes this can also mean accepting the blame even when you didn't know it happened. You lost control of the operation, it is still on you.
 
-This does **not** mean you CAN make dumb decisions and just accept blame. The bigger your mistake the bigger you will get fucked by whichever office feels like. Make smart decisions, but understand that everything has risk, be able to explain your rationale and accept responsibility when things break.
+This does **not** mean you can make dumb decisions and just accept blame. The bigger your mistake the bigger you will get fucked by whichever office feels like. Make smart decisions, but understand that everything has risk, be able to explain your rationale and accept responsibility when things break.
 
 ## Tangible Items
 ### Review documents before directors submit to OSL
-![screenshot](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy.png)
+![screenshot](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy.png) ![screenshot](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy2.png)  
+(Each packet drink carton has 24*250ml)
 ### Be the face of the event
 Yappatron basically. 
 ### Take care of GOH/VIPs
+
 {: .note}
 >Before Orientation, the school execs will sabo one of themselves to be the Guest-of-Honour for the event. Additionally, there will be 2-3 VIPs.
 
