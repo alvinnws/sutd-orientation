@@ -58,7 +58,7 @@ The orientation was successful in its thematic execution and creative output. Ha
 
 **Resource Management:** Access to the **Makespace/FabLab** should be requested 4 months in advance.  
 **Safety & Equipment:** Budget for **respirators** when dealing with toxic chemicals. Invest more in quality tools and buy spare materials upfront ("Spend first, think later").  
-Workload: These tasks are exhausting during Term 3. Start earlier and implement "soft deadlines" to ensure the final deadline is met.  
+**Workload:** These tasks are exhausting during Term 3. Start earlier and implement "soft deadlines" to ensure the final deadline is met.  
 **Manpower: * Costumes:** ideally 1 person per costume, or 2 ppl every 3 costumes, budget probably 70-80 per costume  
 **Centerpiece:** Requires more discussion between sub-teams and a "Mini-boss" who is more "nosy" regarding deadlines and workspace organization. 
 
