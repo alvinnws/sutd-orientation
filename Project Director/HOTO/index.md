@@ -55,7 +55,7 @@ During events (dry run/refresher/ori), it can look like
 - NOT knowing the exact position of each OG
 - NOT knowing the exact positions of each subcomm member
 
-Does this mean I knew all of that during your Orientation? Not always, maybe 90%. I wasn't perfect, you might not be, but we still aim to be.
+Does this mean I knew all of that during your Orientation? Not always, maybe 90%. I wasn't perfect, you might not be, but we still try, uk?
 
 To know all of this falls only onto the PD. Logs does not need to know what IG posts are being made, CM doesn't need to know what games are being played, Fundraising doesn't need to know what lore is being created. But the PD does.
 
@@ -69,7 +69,7 @@ just dont let them feel alone or that theyre drowning, help them if u can else t
 another day problem
 
 ## Make big decisions
-Your committee must come to the mutual understanding that, at the end of the day, the PD has the final say. This can mean rejecting idea $x$, or forcing idea $y$. That being said, this must also be distinct from power tripping. You are not making *your* dream come to life, you act in the best interests of *Orientation*. 
+Your committee must come to the mutual understanding that, at the end of the day, the PD has the final say. This can mean rejecting idea $$x$$, or forcing idea $$y$$. That being said, this must also be distinct from power tripping. You are not making *your* dream come to life, you act in the best interests of *Orientation*. 
 
 > For example, someone's response to wanting to be part of Orientation is that they "like to touch kids". Of course, you know this is a joke, they know its a joke, they have people who can vouch for them and say they are a good person. You must still tell your directors that this person cannot be taken in. The interests of the programme are above your own.
 
@@ -88,7 +88,7 @@ Consider the following scenario:
 What do you do? Do you let the OGms continue in the spirit of Ori? Do you call them in and let cleanup take place? This literally happened during your Orientation, and it was my (the PD's) responsibility to decide and then TELL OSL that we will keep the games running.
 
 ## Take the blame
-This one is very simple. If OComm fucked up, you fucked up. Don't say your director did it, just own up say, "sorry this was my fault, I should have done $x$ when I noticed $y$." (@other directors this applies to your subcomm too)
+This one is very simple. If OComm fucked up, you fucked up. Don't say your director did it, just own up say, "sorry this was my fault, I should have done $$x$$ when I noticed $$y$$." (@other directors this applies to your subcomm too)
 
 Sometimes this can also mean accepting the blame even when you didn't know it happened. You lost an overview of the operation, it is still on you.
 
