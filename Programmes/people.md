@@ -40,7 +40,7 @@ The people you’ll be working with the most! Hopefully you all get along, any p
 - Main thing is estimate how much budget you need; I let Logs use Progs budget since they were buying so much for us; can consider drafting your budget together w Logs
 - Don’t be afraid to text your finance director to approve urgent claims; can also let them know in advance if you/your comm is making a claim (our finance director was solid💯responsive AND helpful 10/10)  
 
-**PDs**
+**PDs**  
 PDs should be keeping the team together, keeping track of deadlines, resolving disputes, helping out wherever help is needed, etc. If they’re NOT, let your secretary/seniors know ASAP
 - For me PDs were most useful to help make announcements/briefings when I didn’t want to do public speaking HAHA ~~also as a scapegoat when I want to do something OSL might not necessarily approve of~~
 - Jk PDs can also help to oversee any happenings if you need to be elsewhere 
