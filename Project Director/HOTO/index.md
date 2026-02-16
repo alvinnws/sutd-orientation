@@ -104,7 +104,10 @@ This does **not** mean you can make dumb decisions and just accept blame. The bi
 
 ## Tangible Items
 ### Review documents before directors submit to OSL
-![screenshot](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy.png) ![screenshot](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy2.png)  
+<img src="https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy.png" width="30%">
+<img src="https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy2.png" width="30%">
+<img src="https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy3.png" width="30%">
+
 (Each packet drink carton has 24*250ml)
 ### Be the face of the event
 Yappatron basically. 
