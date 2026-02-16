@@ -34,12 +34,12 @@ What I did: NOT plan out manpower/scheduling properly. This is where it would he
 I would recommend using this day to make it extremely clear to everyone involved in Ori where they should be at what time. We didn’t want to take more of everyone’s time so we tried to squeeze everything into 2 days but. Uty if you want to make it 3 full days of the whole actual schedule. If not by dry run, by refresher you should be very clear on the entire plan for Ori, so uty if you want to run through it with Everyone but I recommend running through your entire plan at least once with ocomm.
 
 ## D-day
-I died
-![die d](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/programmes-died.png)
-Idk if you noticed but my soul had flown out the window by the time Ori rolled around and I just wanted it to be Over. Luckily Progs comm, Ocomm, GMs and OGLs could mostly handle everything without me by that point so it was still ok 👍(if you have a good plan, everyone can just follow the plan and all you have to do is put out fires!) By Wet Games I completely checked out and poor guoyao (Welfare) had to handle everything with alvin (PD) but ideally Progs should be helping to oversee everything also… oops
-![die d](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/programmes-oops.png)
+I died  
+![die d](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/programmes-died.png)  
+Idk if you noticed but my soul had flown out the window by the time Ori rolled around and I just wanted it to be Over. Luckily Progs comm, Ocomm, GMs and OGLs could mostly handle everything without me by that point so it was still ok 👍(if you have a good plan, everyone can just follow the plan and all you have to do is put out fires!) By Wet Games I completely checked out and poor guoyao (Welfare) had to handle everything with alvin (PD) but ideally Progs should be helping to oversee everything also… oops  
+![die d](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/programmes-oops.png)  
 ## Misc.
-- People **will** drop out — other commitments, not interested anymore, ~~not interested anymore but staying in the comm just not contributing…~~ this is Fine
+- People **will** drop out — other commitments, not interested anymore, ~~not interested anymore but staying in the comm just not contributing…~~ this is Fine  
 ![die d](https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/programmes-thisisfine.png)
 - Ok but frfr manpower can always come from somewhere else (the ex-ROOT president showed up with some of his friends to be GM); remember that everyone involved is actually basically volunteering their time and effort in exchange for a fun/meaningful experience
 - You can have fun too! Don’t stress things will always work out lol
