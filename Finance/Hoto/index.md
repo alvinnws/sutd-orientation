@@ -28,9 +28,15 @@ Keep track of $$, allocation of budget, approval of claims/requests
 
 ## Timeline
 
-February | March | April | May | June | July | August 
-:--|:--|:--|:--|:--|:--|:--
-OPW, getting to have a rough idea of the budget <br> <br>Discussing with the PDs how the budget for each department should look like | Final draft of budget proposal to be finalised <br> <br> Send to OSL for budget approval | Budget proposal should be approved <br> <br> People can start buying stuff | To keep track of purchases for dry run <br><br>To ask the departments involved to ask for Ori D-Day quotations (ambulance, food, shirts) | Dry run (tentative) <br><br> To start submitting approved PAFs to OSL if needed |Final purchases and confirmation of bulk purchases with vendors | A few last-minute buys <br><br> Concur-ing
+Month | Event 
+:-|:-
+February | OPW, getting to have a rough idea of the budget <br> <br>Discussing with the PDs how the budget for each department should look like 
+March | Final draft of budget proposal to be finalised <br> <br> Send to OSL for budget approval 
+April |  Budget proposal should be approved <br> <br> People can start buying stuff 
+May | To keep track of purchases for dry run <br><br>To ask the departments involved to ask for Ori D-Day quotations (ambulance, food, shirts) 
+June | Dry run (tentative) <br><br> To start submitting approved PAFs to OSL if needed 
+July | Final purchases and confirmation of bulk purchases with vendors
+August | A few last-minute buys <br><br> Concur-ing
 
 (might change for your year but the events that will happen should be the same)
 
