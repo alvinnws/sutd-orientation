@@ -27,6 +27,10 @@ My tele handle: [redacted for now?] [fell free to drop me a text if you have any
 Keep track of $$, allocation of budget, approval of claims/requests
 
 ## Timeline
+l | c | r
+:-|:-:|-:
+test | test | test
+
 February | March | April | May | June | July | August 
 :--|:--|:--|:--|:--|:--|:--
 OPW, getting to have a rough idea of the budget <br> <br>Discussing with the PDs how the budget for each department should look like | Final draft of budget proposal to be finalised <br> <br> Send to OSL for budget approval | Budget proposal should be approved <br> <br> People can start buying stuff | To keep track of purchases for dry run <br><br>To ask the departments involved to ask for Ori D-Day quotations (ambulance, food, shirts) | Dry run (tentative) <br><br> To start submitting approved PAFs to OSL if needed |Final purchases and confirmation of bulk purchases with vendors | A few last-minute buys <br><br> Concur-ing
