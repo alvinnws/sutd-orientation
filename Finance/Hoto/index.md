@@ -49,10 +49,10 @@ Finance has no subcom, as you will be the only one having access and approving o
 
 ## Managing Subcommittee Members/other student helpers (OGLs, GMs, other student helpers etc.)
 Instead of this, lets talk about the people that you will be working with:
-1) Logs Director: as he/she buys materials and items for the progs and games
-2) CM Director: as he/she needs to purchase ori T-shirts and any merch
-3) Welfare Director: as he/she need to settle the many welfare orders of food, ambulance, more food….
-4) PD: When PAFs are more than $300 you will need them to sign tgt with you
+1. Logs Director: as he/she buys materials and items for the progs and games  
+2. CM Director: as he/she needs to purchase ori T-shirts and any merch  
+3. Welfare Director: as he/she need to settle the many welfare orders of food, ambulance, more food….  
+4. PD: When PAFs are more than $300 you will need them to sign tgt with you
 
 ## Collaboration with other Directors
 Talk and communicate with all other directors and don’t be shy to chase after them to submit claims, requests, or query some purchases that you think may not be necessary and reason it out with them. (Of course, please hear them out too)  
