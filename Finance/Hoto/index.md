@@ -27,9 +27,6 @@ My tele handle: [redacted for now?] [fell free to drop me a text if you have any
 Keep track of $$, allocation of budget, approval of claims/requests
 
 ## Timeline
-l | c | r
-:-|:-:|-:
-test | test | test
 
 February | March | April | May | June | July | August 
 :--|:--|:--|:--|:--|:--|:--
@@ -38,6 +35,7 @@ OPW, getting to have a rough idea of the budget <br> <br>Discussing with the PDs
 (might change for your year but the events that will happen should be the same)
 
 ## Significant Areas/Events for the Department
+
 Section | Description 
 :-|:-
 1: Budget Doc | Allocate the total sum for each departments needs, this is the doc that I worked on can refer if needed: [redacted for now?] <br><br>- each projected spending do not need to be too finalized, can change anytime tune here tune there as long as total is within budget <br> - it’s ok to just have estimate amount at first (but make sure the estimation make sense)<br> - start by listing what needs money and then only allocate budget based on that 
