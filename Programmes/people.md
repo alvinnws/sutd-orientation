@@ -12,42 +12,42 @@ It’s tough but it’s rewarding and you can 100% do it
 
 ## Dealing with people
 ### Ocomm
-The people you’ll be working with the most! Hopefully you all get along, any problems try to resolve ASAP or let your seniors know. TBH Progs works with basically everyone, there’s no comm you can avoid for the entirety of Ori.
+The people you’ll be working with the most! Hopefully you all get along, any problems try to resolve ASAP or let your seniors know. TBH Progs works with basically everyone, there’s no comm you can avoid for the entirety of Ori.  
 **Logistics**
 - Jamie (logs director) helped me buy almost everything LOL; talk to your logs director and see what kind of arrangement y’all prefer
 - Logs will help you book venues, and make sure you have all the materials you need for every game + finale night
 - Keep Logs Director in the loop!!! Add them to whatever groupchats, cc them in emails etc. unless you want to keep having to repeat information and clear up confusion
 - Logs comm also helps move whatever logistics you need to wherever you need it e..g for games, finale night etc. get GMs to help with it because Logs comm is usually overworked
-- You can get logs to help make props if needed but tbh I should have just gotten progs to do it logs were doing a lot alr
+- You can get logs to help make props if needed but tbh I should have just gotten progs to do it logs were doing a lot alr  
 **Fundraising**
 - 2025 we wanted to try incorporating sponsors into the games more than just getting prizes from them, if you want to do this go and bug fundraising early — for my year the fundraising deadlines were much later and it was difficult to keep changing games for sponsors so go and discuss with fundraising if this is something yall are interested in the discussion with companies needs to happen much earlier (or don’t let fundraising have it in their sponsorship benefits at all) ☆
-- We had a goated Fundraising comm that got us hella prizes (esp for Finale) and helped us get some prizes reassigned to Closing (bc i forgot Closing needed prizes also oops)
+- We had a goated Fundraising comm that got us hella prizes (esp for Finale) and helped us get some prizes reassigned to Closing (bc i forgot Closing needed prizes also oops)  
 **Welfare**
 - My year we split GMs under Programmes and OGLs under Welfare, I think this was okay but previous years put both under Welfare, uty (see ‘GMs’ below) ☆
 - You + Welfare (+ maybe PDs) are mainly responsible for keeping the hype up; i think we could have done a better job of that… (see ‘Key pitfalls’ below)
-- Other than you and maybe your PDs, Welfare should know the most about what’s happening in terms of activities and games; they can also help to be IC if you need one but you can’t be there for whatever reason; but during Ori itself Welfare will be one of the busiest directors (Usually, you and welfare (and logs) will be the most tired at the end of each day; but if you work Together neither of you needs to be Exhausted) 
+- Other than you and maybe your PDs, Welfare should know the most about what’s happening in terms of activities and games; they can also help to be IC if you need one but you can’t be there for whatever reason; but during Ori itself Welfare will be one of the busiest directors (Usually, you and welfare (and logs) will be the most tired at the end of each day; but if you work Together neither of you needs to be Exhausted)  
 **CM**
 - I got CM to help with making some props, coordinating audio/lights for closing — this made sense because they were already liaising with people for av and the skits they wanted to do, see how with what your CM wants to do 
 - I wanted CM’s help to make the activities fit the overall story better but they were busy and progs comm didn’t really know anything about the plot so in the end it didn’t happen🤷 lowkey I don’t think it matters though bc people still had fun
 - I also wanted CM to help with finale night but uhhh bit tough to coordinate across comms yea
-- In the end CM took over most of closing and progs comm handled finale which also made sense bc each comm just had to be in one location (mostly) 
+- In the end CM took over most of closing and progs comm handled finale which also made sense bc each comm just had to be in one location (mostly)  
 **Finance**
 - Since Logs did most of the purchasing for me I didn’t really have to do finance stuff myself haha other than COMPASS stuff
 - Main thing is estimate how much budget you need; I let Logs use Progs budget since they were buying so much for us; can consider drafting your budget together w Logs
-- Don’t be afraid to text your finance director to approve urgent claims; can also let them know in advance if you/your comm is making a claim (our finance director was solid💯responsive AND helpful 10/10)
+- Don’t be afraid to text your finance director to approve urgent claims; can also let them know in advance if you/your comm is making a claim (our finance director was solid💯responsive AND helpful 10/10)  
 **PDs**
 PDs should be keeping the team together, keeping track of deadlines, resolving disputes, helping out wherever help is needed, etc. If they’re NOT, let your secretary/seniors know ASAP
 - For me PDs were most useful to help make announcements/briefings when I didn’t want to do public speaking HAHA also as a scapegoat when I want to do something OSL might not necessarily approve of
 - Jk PDs can also help to oversee any happenings if you need to be elsewhere 
 ### Programmes comm
-Tbh, 4-5 people for the planning stage is sufficient IF everyone is helping, even 2-3 REALLY efficient and solid comm members would be enough, but extra manpower is most appreciated on d-day (see “Commitment” below)
+Tbh, 4-5 people for the planning stage is sufficient IF everyone is helping, even 2-3 REALLY efficient and solid comm members would be enough, but extra manpower is most appreciated on d-day (see “Commitment” below)  
 **Division of labour**
 - I didn’t really divide up the labour or make people’s roles clear enough (TBH i myself wasn’t so clear on why/how the previous comm split their roles that way) but here’s how I would do it if I had to do it again (feel free not to use):
 - Games: Should be thinking about - is the game fun? Is it feasible? Does it include enough members of the group?
 - Activities: does the activity/game fit with the overall theme/flow/purpose of Ori? What other activities can be incorporated into ori? Can consider liaising with CM/Fundraising
 - Proposals: My proposals ICs were the people I trusted the most to be organised and get work done… Ideally you can trust all members of your comm to do that tho
 - D-day ICs: upon reflection it would have made my life easier to have section ICs on the day itself e.g. when the activities were split between 2 ISHs, designating at least 1 IC per ISH to keep track of things/give game briefings, or having someone IC of the GMs would be easier (also because I was the only Progs IC, I was relying on Welfare and PDs to keep track of things also) can also consider designating ICs for each major event e.g. for my year maybe 1 for Scavenger Hunt, 1 for Wet Games, 1 for Finale Night etc.
-- Can also consider splitting people by day, by major event etc.designating people to communicate with other comms e.g. Logs
+- Can also consider splitting people by day, by major event etc.designating people to communicate with other comms e.g. Logs  
 **Commitment**
 - Out of all the subcomms, Programmes (both director(s) and subcomm) arguably has the most work. It is doable if everyone pulls their weight (and you need to assign work efficiently)
 - I pulled a lot of people I already knew to be Programmes, but a surprising number of people were genuinely interested in the game planning aspect -> Quantity > Quality look for the people who will do work rather than taking on whoever b/c you’re desperate
