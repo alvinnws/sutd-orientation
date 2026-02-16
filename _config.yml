@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SUTD Orientation Wiki
+description: Mostly HOTO from 2025 Orientation Committee
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://www.alvinnws.com/sutd-orientation
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github Repository: https://github.com/alvinnws/sutd-orientation
+
+aux_links_new_tab: true
+
+color_scheme: dark
