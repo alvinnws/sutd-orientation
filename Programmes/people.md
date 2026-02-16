@@ -1,7 +1,7 @@
 ---
 title: Programmes
 layout: default
-permalink: /programmes
+permalink: /programmes/people
 nav_order: 1
 parent: Programmes
 ---
