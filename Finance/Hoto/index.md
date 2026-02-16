@@ -27,19 +27,19 @@ My tele handle: [redacted for now?] [fell free to drop me a text if you have any
 Keep track of $$, allocation of budget, approval of claims/requests
 
 ## Timeline
-| February | March | April | May | June | July | August |
-|:--|:--|:--|:--|:--|:--|:--|
-|OPW, getting to have a rough idea of the budget <br> <br>Discussing with the PDs how the budget for each department should look like | Final draft of budget proposal to be finalised <br> <br> Send to OSL for budget approval | Budget proposal should be approved <br> <br> People can start buying stuff | To keep track of purchases for dry run <br><br>To ask the departments involved to ask for Ori D-Day quotations (ambulance, food, shirts) | Dry run (tentative) <br><br> To start submitting approved PAFs to OSL if needed |Final purchases and confirmation of bulk purchases with vendors | A few last-minute buys <br><br> Concur-ing
+February | March | April | May | June | July | August 
+:--|:--|:--|:--|:--|:--|:--
+OPW, getting to have a rough idea of the budget <br> <br>Discussing with the PDs how the budget for each department should look like | Final draft of budget proposal to be finalised <br> <br> Send to OSL for budget approval | Budget proposal should be approved <br> <br> People can start buying stuff | To keep track of purchases for dry run <br><br>To ask the departments involved to ask for Ori D-Day quotations (ambulance, food, shirts) | Dry run (tentative) <br><br> To start submitting approved PAFs to OSL if needed |Final purchases and confirmation of bulk purchases with vendors | A few last-minute buys <br><br> Concur-ing
 
 (might change for your year but the events that will happen should be the same)
 
 ## Significant Areas/Events for the Department
-| Section | Description |
-|:-|:-|
-| 1: Budget Doc | Allocate the total sum for each departments needs, this is the doc that I worked on can refer if needed: [redacted for now?] <br><br>- each projected spending do not need to be too finalized, can change anytime tune here tune there as long as total is within budget <br> - it’s ok to just have estimate amount at first (but make sure the estimation make sense)<br> - start by listing what needs money and then only allocate budget based on that |
-| 2: PAFs | All the PAFs that need to be submitted: <br> 1) Dry run food <br> 2) Ambulance <br> 3) T-shirts <br>  4) Meals for actual orientation (Lunch/dinner) <br>  5) Any miscellaneous buys from departments that is $300 and above <br> 6) COMPASS Licensing <br> <br> Remember to check if the supplier is registered on ARIBA, if no need to register them can refer to ori finance email we registered a few |
-| 3: Concur | Yes so other than the ones go by invoice through the school’s ARIBA system, all the rest of the money will go through concur, so it’ll be student self pay first then get reimbursement from school <br><br> - update your transaction register + budget plan constantly <br>- find something that you’re comfortable with to keep track of all requests, claims, prfs and pafs (I used this google doc: [redacted for now?]) <br>- when approving claims check and make sure all details are right all necessary documents are submitted (to make sure they don’t come back to u hahahahahaha <br>- concur is not that deep just need time to slowly get used to it, approve more le jiu will be used to it (any ques just ask your sec, me or any finance peeps) |
-| 4: Prize Acknowledgement Sheet | Not something really big, just remember this if y’all doing lucky draw or giving prizes (best og prize etc) |
+Section | Description 
+:-|:-
+1: Budget Doc | Allocate the total sum for each departments needs, this is the doc that I worked on can refer if needed: [redacted for now?] <br><br>- each projected spending do not need to be too finalized, can change anytime tune here tune there as long as total is within budget <br> - it’s ok to just have estimate amount at first (but make sure the estimation make sense)<br> - start by listing what needs money and then only allocate budget based on that 
+2: PAFs | All the PAFs that need to be submitted: <br> 1) Dry run food <br> 2) Ambulance <br> 3) T-shirts <br>  4) Meals for actual orientation (Lunch/dinner) <br>  5) Any miscellaneous buys from departments that is $300 and above <br> 6) COMPASS Licensing <br> <br> Remember to check if the supplier is registered on ARIBA, if no need to register them can refer to ori finance email we registered a few 
+3: Concur | Yes so other than the ones go by invoice through the school’s ARIBA system, all the rest of the money will go through concur, so it’ll be student self pay first then get reimbursement from school <br><br> - update your transaction register + budget plan constantly <br>- find something that you’re comfortable with to keep track of all requests, claims, prfs and pafs (I used this google doc: [redacted for now?]) <br>- when approving claims check and make sure all details are right all necessary documents are submitted (to make sure they don’t come back to u hahahahahaha <br>- concur is not that deep just need time to slowly get used to it, approve more le jiu will be used to it (any ques just ask your sec, me or any finance peeps) 
+4: Prize Acknowledgement Sheet | Not something really big, just remember this if y’all doing lucky draw or giving prizes (best og prize etc) 
 
 And basically that’s it a pretty straightforward job, just need a little more patience and will be working with numbers!
 ## How you should choose your Subcommittee Members
