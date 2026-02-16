@@ -63,7 +63,7 @@ To know all of this falls only onto the PD. Logs does not need to know what IG p
 another day problem
 
 ## Care for the welfare of your committee
-just dont let them feel alone or that theyre drowning, help them if u can else treat them well
+dont let them die ah
 
 ## Create space for your subcomm to work efficiently
 another day problem
