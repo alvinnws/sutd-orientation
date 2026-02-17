@@ -7,7 +7,7 @@ parent: Project Director
 ---
 
 {: .note}
-> Traditionally, the Project Director did not have a HOTO document to refer to (all pds are lazy). For the longest time I also procrastinated writing this HOTO doc (as did most of my batchmates)
+> Traditionally, the Project Director did not have a HOTO document to refer to (all pds are lazy). For the longest time I also procrastinated writing this HOTO doc (as did most of my batchmates).
 >
 > Now, not only do you have this document but you also have this website, therefore you must be the best pd in the history of sutd ori! no pressure.
 
@@ -20,13 +20,13 @@ From my point of view, the important things the PD must do are to:
 - Understand the entirety of Orientation,
 - Maintain the direction of each subcomm,
 - Care for the welfare of your committee,
-- Create space for your subcomm to work efficiently,
+- Create space for your subcomms to work efficiently,
 - Make big decisions during the event, and if shit goes wrong,
 - Take the blame.
 
-Ok actually, the PD also has some GOH/VIP related things, but like I'll elaborate later dwdw
-
 You'll notice that these are all soft targets, unlike other directors. In planning ori, PD acts more like middle management, with KPI/targets from upper management(OSL), and employees who carry out the grunt work(subcomm). I say act, and not is, because at the end of the day your other comm directors are your peers, and you are one committee as a whole. DO NOT POWER TRIP.
+
+Ok actually, the PD also has real work to do, just not as much compared to the other directors.
 
 What are the tangible items PD might do?
 - Review documents before directors submit to OSL.
@@ -68,12 +68,19 @@ Does this mean I knew all of that during your Orientation? Not always, maybe 90%
 To know all of this falls only onto the PD. Logs does not need to know what IG posts are being made, CM doesn't need to know what games are being played, Fundraising doesn't need to know what lore is being created. But the PD does.
 
 ## Maintain the direction of each subcomm
-another day problem
+The prerequisite to maintaining a direction is that you've set one. Please take the initiative to call a meeting where you all discuss your visions and goals for Orientation. Come to an agreement and all work towards it. This meeting should be *without* seniors, and you should feel free to air your thoughts without judgement.
+
+Once you have visions and goals, it is on you and your comm to get it done together. 
+
+Maintaining direction means that you check on your directors. 
+Ensure deadlines are being met, ensure that logistics is procuring necessary items for programems, ensure CM's work is aligned with the theme and vision.
+
+If your committee is as god-tier as mine was, this would not be a concern at all. However, it still is the responsibility of the PD.
 
 ## Care for the welfare of your committee
 dont let them die ah
 
-## Create space for your subcomm to work efficiently
+## Create space for your subcomms to work efficiently
 another day problem
 
 ## Make big decisions
@@ -109,7 +116,7 @@ This does **not** mean you can make dumb decisions and just accept blame. The bi
 
 <img src="https://raw.githubusercontent.com/alvinnws/sutd-orientation/refs/heads/main/assets/pd-wgy3.png" width="60%">
 
-(Each packet drink carton has 24*250ml)
+(They also typo'd Green Tea Teta Pack but ig we didn't notice at the time)
 ### Be the face of the event
 Yappatron basically. 
 ### Take care of GOH/VIPs
