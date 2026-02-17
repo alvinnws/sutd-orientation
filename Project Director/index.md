@@ -81,7 +81,7 @@ If your committee is as god-tier as mine was, this would not be a concern at all
 dont let them die ah
 
 ## Create space for your subcomms to work efficiently
-another day problem
+might finish this section might not see mood
 
 ## Make big decisions
 Your committee must come to the mutual understanding that, at the end of the day, the PD has the final say. This can mean rejecting idea x, or forcing idea y. That being said, this must also be distinct from power tripping. You are not making *your* dream come to life, you act in the best interests of *Orientation*. 
@@ -118,7 +118,12 @@ This does **not** mean you can make dumb decisions and just accept blame. The bi
 
 (They also typo'd Green Tea Teta Pack but ig we didn't notice at the time)
 ### Be the face of the event
-Yappatron basically. 
+For Orientation, there must be someone who everyone looks to as "*the* person doing ori". Thats you! It cannot be your programmes director, they are ensuring games can function. It cannot be your welfare director, they are ensuring your OGLs do their jobs. It cannot be anyone else.
+
+During ori itself, this means you are the one greeting everyone and giving broad instructions. That was me on stage last year, it will be you this year. If you have public speaking fear, time to get over it. This part is quite easy in itself too.
+
+Throughout the planning phase and all, people will also associate you with ori. If your reputation is shit, ori *feels* shittier. If you're known to be goated, ori *feels* better. This one kind of bopes.
+
 ### Take care of GOH/VIPs
 
 {: .note}
