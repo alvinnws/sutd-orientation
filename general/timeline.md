@@ -3,6 +3,7 @@ title: Timeline
 layout: default
 permalink: /home/timeline
 nav_order: 1
+parent: Home
 ---
 
 As an overview, here are the rough timelines for our batch (and earlier), and as a result of the mess that is SUTD's academic calendar, your batch

@@ -3,6 +3,7 @@ title: Going Off Campus
 layout: default
 permalink: /Home/off-campus
 nav_order: 2
+parent: Home
 ---
 
 One of the best ways to make orientation feel more atas is to take the freshies outside of school! This is where I tell you about all the potential problems and you'll have to decide if it is worth the trouble.
