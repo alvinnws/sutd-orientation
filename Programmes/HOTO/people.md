@@ -3,7 +3,7 @@ title: People
 layout: default
 permalink: /programmes/HOTO/people
 nav_order: 1
-parent: Programmes
+parent: Progs HOTO
 ---
 
 It’s tough but it’s rewarding and you can 100% do it

@@ -1,5 +1,5 @@
 ---
-title: HOTO
+title: Fundraising HOTO
 layout: default
 permalink: /fundraising/hoto
 nav_order: 2

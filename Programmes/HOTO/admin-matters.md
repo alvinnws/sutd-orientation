@@ -3,7 +3,7 @@ title: Admin Matters
 layout: default
 permalink: /programmes/HOTO/admin-matters
 nav_order: 2
-parent: Programmes
+parent: Progs HOTO
 ---
 
 ## Admin things

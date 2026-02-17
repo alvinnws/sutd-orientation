@@ -1,5 +1,5 @@
 ---
-title: HOTO
+title: CM HOTO
 layout: default
 permalink: /creative-media/hoto
 nav_order: 2

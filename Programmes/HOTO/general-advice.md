@@ -3,7 +3,7 @@ title: General Advice
 layout: default
 permalink: /programmes/HOTO/general-advice
 nav_order: 3
-parent: Programmes
+parent: Progs HOTO
 ---
 
 ## Key pitfalls

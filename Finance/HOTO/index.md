@@ -1,5 +1,5 @@
 ---
-title: HOTO
+title: Finance HOTO
 layout: default
 permalink: /finance/hoto
 nav_order: 2
