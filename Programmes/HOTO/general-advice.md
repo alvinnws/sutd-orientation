@@ -45,4 +45,4 @@ Idk if you noticed but my soul had flown out the window by the time Ori rolled a
 - You can have fun too! Don’t stress things will always work out lol
 - When you are confused GMs (and everyone else) are confused. Try not to be confused.
 - Sometimes when there are disputes between people involved in Ori you may feel the urge to say it’s not that deep. Unfortunately, it is that deep to the people involved and you need them to be happy so they will continue helping Ori. It is mostly Welfare’s job to make people happy but Progs is unfortunately also one of the more people-facing positions of Ori so you will have to help settle personal issues sometimes
-- **It is that deep but it’s not that deep  **
+- **It is that deep but it’s not that deep**
