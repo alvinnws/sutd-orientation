@@ -1,7 +1,7 @@
 ---
 title: Going Off Campus
 layout: default
-permalink: /Home/off-campus
+permalink: /off-campus
 nav_order: 2
 parent: Home
 ---

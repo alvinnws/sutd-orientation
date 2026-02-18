@@ -1,7 +1,7 @@
 ---
 title: Timeline
 layout: default
-permalink: /home/timeline
+permalink: /timeline
 nav_order: 1
 parent: Home
 ---
