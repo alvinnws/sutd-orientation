@@ -38,9 +38,8 @@ The "tradition" only started in 2023 when then PD (Yirong) and his friends creat
 ### Previous years centerpieces
 <dl>
     <dt>2025</dt>
-    <dd>Rocketship</dt>
+    <dd>Rocketship
     <dt>2024</dt>
-    <dd>Obelisk</dt>
+    <dd>Obelisk
     <dt>2023</dt>
-    <dd>Ferris Wheel</dt>
-</dl>
+    <dd>Ferris Wheel
