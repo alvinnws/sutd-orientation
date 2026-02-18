@@ -3,6 +3,7 @@ description: Mostly HOTO from 2025 Orientation Committee
 url: "https://www.alvinnws.com/sutd-orientation"
 baseurl: "/sutd-orientation"
 theme: just-the-docs
+favicon_ico: ./assets/images/favicon.ico
 
 aux_links:
   Github Repository: https://github.com/alvinnws/sutd-orientation
